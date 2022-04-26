@@ -8,9 +8,7 @@ public class Add {
 		int b = 20;
 		int c = a + b;
 		System.out.println(c);
-		System.out.println("im a super hero");
-		System.out.println("im shyam supreme hero");
-		System.out.println("employee");
+		
 	}
 
 }
